@@ -11,10 +11,6 @@ namespace PartyInvites.Controllers
     public class HomeController : Controller
 
     {
-        public ViewResult AAA() 
-        {
-            return View("DDD"); 
-        }
 
         public ViewResult Index() 
         {
